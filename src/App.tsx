@@ -361,11 +361,11 @@ export default function App() {
                 </div>
                 <p className="text-[10px] text-[#ffffff66] leading-tight mt-1">
                   Made with ❤️ by <strong>Ahmed Hanout</strong><br/>
-                  for <strong>Dr. Arwa</strong> & <strong>Eng. Ahmed Essam</strong>
+                  for <strong>Dr. Marian Wagdy</strong> & <strong>Eng. Ahmed Essam</strong>
                 </p>
              </div>
              <a 
-              href="https://github.com" 
+              href="https://github.com/A7anout/visionlab_-image-processing-toolbox" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center gap-2 text-[10px] text-[#ffffff33] hover:text-[#fafafa] transition-colors mt-2"
