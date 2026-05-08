@@ -365,7 +365,7 @@ export default function App() {
                 </p>
              </div>
              <a 
-              href="https://github.com/A7anout/visionlab_-image-processing-toolbox" 
+              href="https://github.com/A7anout/VisionLab" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center gap-2 text-[10px] text-[#ffffff33] hover:text-[#fafafa] transition-colors mt-2"
