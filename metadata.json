@@ -1,0 +1,6 @@
+{
+  "name": "VisionLab: Image Processing Toolbox",
+  "description": "A professional-grade image processing playground featuring restoration, morphology, enhancement, and segmentation tools with real-time logic visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
