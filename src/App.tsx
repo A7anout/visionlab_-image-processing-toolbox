@@ -27,7 +27,7 @@ import * as IP from './lib/imageProcessing';
 // --- Types & Constants ---
 const SAMPLE_IMAGES = [
   { id: 'camera', name: 'Camera', url: 'https://picsum.photos/id/250/1000/750', desc: 'Standard test image for edges/textures' },
-  { id: 'lenna', name: 'Lenna', url: 'https://boofcv.org/images/f/fe/Original_lena512.jpg', desc: 'Ideal for contrast' },
+  { id: 'coins', name: 'Coins', url: 'https://picsum.photos/id/200/1000/750', desc: 'Ideal for segmentation/morphology' },
   { id: 'coffee', name: 'Coffee', url: 'https://picsum.photos/id/63/1000/750', desc: 'Complex textures and color gradients' },
   { id: 'astronaut', name: 'Astronaut', url: 'https://picsum.photos/id/65/1000/750', desc: 'Portrait for enhancement tests' },
   { id: 'chelsea', name: 'Chelsea Cat', url: 'https://picsum.photos/id/219/1000/750', desc: 'Fine detail (fur) for restoration' },
